@@ -1,6 +1,6 @@
 import socket as s
 
-ip = "localhost"
+ip = "https://chat-app-yi62.onrender.com"
 port = 8000
 
 client_socket = s.socket(s.AF_INET, s.SOCK_STREAM)
